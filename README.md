@@ -19,7 +19,7 @@ Data & Analytics Manager at a consulting firm, leading 10+ data projects for ent
 
 ### Tech I work with
 
-`Python` · `R` · `SQL` · `Machine Learning` · `Power BI` · `n8n` · `Power Automate` · `Google Apps Script`
+`Python` · `R` · `SQL` · `Machine Learning` · `Power BI` · `n8n` · `Power Automate` · `Google Apps Script`  · `Pytorch` 
 
 ---
 
